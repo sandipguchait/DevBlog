@@ -1,3 +1,5 @@
 # React-Static - Basic Template
 
 To use this template, run `react-static create` and use the `basic` template.
+Website:- https://debblog.netlify.com/
+JUST A TRY
